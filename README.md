@@ -1,20 +1,39 @@
-# To-Do-List
-# Simple To-Do List Web Application
 
+# To-Do Web App
 
-This is a simple web-based to-do list application that allows users to add, complete, and delete tasks. It's a straightforward project designed for learning and demonstration purposes. You can use this project as a starting point to build more complex to-do list applications.
+A simple to-do web app that allows users to add, edit, and mark tasks as complete.
 
 ## Features
 
-- Add new tasks to your to-do list.
-- Mark tasks as completed with a single click.
-- Delete tasks you no longer need.
-- Clean and user-friendly interface.
-- Responsive design for various screen sizes.
+- Add new tasks to the to-do list.
+- Mark tasks as complete.
+- View completed tasks separately.
+- Edit or delete tasks.
+- Display the date and time when a task is added or completed.
 
 ## Getting Started
 
-1. Clone the repository to your local machine.
+### Prerequisites
 
-```bash
-https://github.com/rithvik4/To-D0-List
+- Web browser (Google Chrome, Mozilla Firefox, etc.)
+
+## Usage
+- Enter a new task in the input field.
+- Click the "Add Task" button to add the task to the pending tasks list.
+- Check the checkbox next to a task to mark it as complete.
+- Completed tasks will appear in the "Completed Tasks" section.
+- To edit or delete a task, click the "Delete" link next to the task.
+
+ ## Screenshots
+
+![To-Do LIst](https://github.com/rithvik4/To-Do-List/assets/105736916/0da7179d-2f48-4254-abd3-a397173e9ada)
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/rithvik4/your-repository.git
